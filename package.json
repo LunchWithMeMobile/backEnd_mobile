@@ -15,7 +15,7 @@
     "bluebird": "3.5",
     "body-parser": "1.17",
     "cors": "2.8",
-    "express": "^4.15.5",
+    "express": "^4.18.2",
     "firebase-admin": "^8.7.0",
     "jsonwebtoken": "7.4",
     "mongoose": "4.10",
@@ -23,7 +23,7 @@
     "nodemailer": "^2.7.2",
     "passport": "0.3",
     "passport-jwt": "2.2",
-    "socket.io": "1.7"
+    "socket.io": "4.5"
   },
   "devDependencies": {
     "nodemon": "^1.11.1"
